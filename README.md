@@ -29,5 +29,6 @@ I'm Yago Oliveira, a full stack web developer from Brazil. I really like to deve
 <br />
 
 📊 **This is how I'm spending my time:**
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=vordlex&show_icons=true&theme=gotham" alt="vordlex" /> </p>
