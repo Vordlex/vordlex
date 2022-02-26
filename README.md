@@ -60,6 +60,6 @@
 📊 This is how I'm spending my time:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 54 mins    █████████████████████████   99.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
