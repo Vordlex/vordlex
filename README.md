@@ -59,7 +59,9 @@
 
 📊 This is how I'm spending my time:
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+TypeScript   52 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
