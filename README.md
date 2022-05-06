@@ -61,9 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         6 mins          ██████████░░░░░░░░░░░░░░░   40.10 %
-Groovy       4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-TypeScript   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
