@@ -26,7 +26,7 @@
 </p><br/>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=vordlex&show_icons=true&theme=gotham" alt="vordlex" width="350" /> </p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vordlex&show_icons=true&theme=gotham" alt="vordlex" width="350" /> </p>
 </p><br/>
 
 <p align='center'>
