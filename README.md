@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AMD-Ryzen%205%203600-%23ED1C24.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%204090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p><br/>
 
 <p align='center'>
