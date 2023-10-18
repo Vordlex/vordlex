@@ -57,7 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   14 mins         ███████████░░░░░░░░░░░░░░   43.78 %
+Text         10 mins         ████████░░░░░░░░░░░░░░░░░   32.25 %
+Ezhil        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Python       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
