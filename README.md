@@ -57,11 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 4 hrs 59 mins   ███████████████████████▓░   94.27 %
-Prisma                     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-CSS                        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JavaScript                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Nginx configuration file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript                 4 hrs 59 mins   ███████████████████▒░░░░░   77.71 %
+YAML                       44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Java Properties            22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Prisma                     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CSS                        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
