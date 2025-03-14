@@ -57,10 +57,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   28 mins         ██████████████████████▒░░   88.86 %
-Batchfile    3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   27 mins         ███████████████████████▒░   93.14 %
+Batchfile    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
